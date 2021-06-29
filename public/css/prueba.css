@@ -1,0 +1,40 @@
+body {
+    background: url("https://i.pinimg.com/originals/47/c9/5d/47c95d58525bd4e73efc87d93e82e8c7.jpg");
+}
+h1 {
+color: #fff;
+    text-align: center;
+}
+
+h1:hover {
+color: rgb(0, 119, 255);
+}
+a{ 
+
+    text-align: center;
+    padding: 10px 30px;
+    background-color: #fff;
+    border-radius: 20%;
+    margin: 20px 30px;
+    box-shadow: 1px 1px 1px 1px black;
+}
+div {
+    margin: auto;
+    margin-top: 20px;
+  margin-left: 5px;
+ 
+    width: 1320px;
+    height: 1060px;
+
+}
+p{
+   color: #fff;
+    height: 20px;
+margin: 10px;
+width: 200px;
+box-shadow: 1px 1px 1px 1px #fff;
+float: right;
+}
+h2{
+    color: #fff;
+}
