@@ -1,0 +1,23 @@
+h1 {
+    text-align: center ;
+    text-shadow: 1px #fff;
+}
+h3,p{
+    margin: 5px;
+}
+
+img {
+    float: right;
+    margin: 3px;
+}
+body {
+    background-color: #000;
+}
+div{
+    background-color: #fff;
+    margin: auto;
+    margin-top: 10px;
+    margin-left: 5px;
+   
+    height: 1440px;
+}
